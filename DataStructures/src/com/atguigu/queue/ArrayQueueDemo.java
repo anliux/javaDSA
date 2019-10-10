@@ -55,6 +55,7 @@ public class ArrayQueueDemo {
 				break;
 			}
 		}
+		System.out.println("³ÌĞòÍË³ö");
 	}
 }
 
