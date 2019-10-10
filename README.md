@@ -49,6 +49,8 @@
 
 ## 代码
 - [SparseArray.java](https://github.com/anliux/javaDSA/blob/master/DataStructures/src/com/atguigu/sparsearray/SparseArray.java)：与二维数组的转换，包括二维转稀疏，和稀疏转二维。
+- [ArrayQueueDemo.java](https://github.com/anliux/javaDSA/blob/master/DataStructures/src/com/atguigu/queue/ArrayQueueDemo.java)：用数组实现队列的五个小功能，并通过主函数验证(因为还不是环形队列，存在一些缺陷）
+
 
 
 # 第四章 链表
